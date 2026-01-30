@@ -50,17 +50,22 @@ XOR Gate:
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
-AND GATE:
+## AND GATE:
  <img width="327" height="250" alt="image" src="https://github.com/user-attachments/assets/5cf9dd15-a6e2-4d1e-880d-d113ef1f2d0d" />
-OR GATE:
+ 
+## OR GATE:
  <img width="324" height="254" alt="image" src="https://github.com/user-attachments/assets/1e6935d4-47f8-4452-aecb-05fe4197dac7" />
-NOT GATE:
+ 
+## NOT GATE:
  <img width="214" height="159" alt="image" src="https://github.com/user-attachments/assets/8321a8ed-43b3-4e1b-88de-a151e3f22772" />
-NAND GATE:
+ 
+## NAND GATE:
  <img width="333" height="250" alt="image" src="https://github.com/user-attachments/assets/ebaa3105-cfe5-474e-b809-6c83415a019a" />
-NOR GATE:
+ 
+## NOR GATE:
  <img width="330" height="249" alt="image" src="https://github.com/user-attachments/assets/7fc0c378-9e21-42bb-bd6a-e950b9323c17" />
-XOR GATE:
+ 
+## XOR GATE:
  <img width="326" height="248" alt="image" src="https://github.com/user-attachments/assets/99d7a304-789c-4570-91a9-685e225d0996" />
 
 # Procedure:
@@ -114,8 +119,11 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 ## DEVICE MONITOR TABLE:
 <img width="1919" height="1021" alt="Screenshot 2026-01-27 114915" src="https://github.com/user-attachments/assets/185ce13a-8eac-4acd-9dea-bb8799e53ee4" />
+
 <img width="1916" height="1019" alt="Screenshot 2026-01-27 115004" src="https://github.com/user-attachments/assets/bef08a12-aca7-403d-8062-b186a2d63ca8" />
+
 <img width="1906" height="995" alt="Screenshot 2026-01-27 115020" src="https://github.com/user-attachments/assets/7b62d38a-fea6-40d7-859a-a6439f8d2a0b" />
+
 <img width="1919" height="1006" alt="Screenshot 2026-01-27 115041" src="https://github.com/user-attachments/assets/38d3e523-1006-432b-8863-3bcc146582dc" />
 
 
