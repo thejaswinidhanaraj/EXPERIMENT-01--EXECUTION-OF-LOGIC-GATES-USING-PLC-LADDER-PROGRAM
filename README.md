@@ -3,8 +3,7 @@
  # REGISTER NUMBER : 212223110059
  # DEPARTMENT : B.E.CSE(IOT)
  # YEAR : III
- # DATE : 30.01.2026
-
+ # DATE : 27.01.2026
  
 # Aim:
 To implement and verify the functioning of basic logic gates (AND, OR, NOT, NAND, NOR, XOR) using a PLC ladder program and simulate the outputs.
